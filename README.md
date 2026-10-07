@@ -1,2 +1,2 @@
 # city-image-v1
-Deconstructing City Image Through Network Analysis and Multi-Source Data: A Case Study of Macau
+The doctoral dissertation constructs a two-stage single-label classification model, primarily examining the differences between official media and tourist UGC.
